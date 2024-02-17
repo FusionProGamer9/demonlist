@@ -8,6 +8,12 @@
     "showcase": "https://youtu.be/A6xe4tKdx_c?feature=shared",
     "password": "No Copy",
     "percentToQualify": 56,
-    "records": [     
+    "records": [
+         {
+            "user": "Quasar",
+            "link": "https://youtu.be/MlvdGvFCmr8?si=mB2FTj3e0yDU5v4c",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
