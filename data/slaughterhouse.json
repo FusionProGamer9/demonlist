@@ -2,7 +2,11 @@
     "id": 7,
     "name": "Slaughterhouse",
     "author": "icedcave",
-    "creators": ["icedcave","river","fusion","riot"]
+    "creators": [
+        "icedcave",
+        "river",
+        "fusion",
+        "riot"],
     "verifier": "Fusion",
     "verification": "https://youtu.be/KaA6csT7Zo8?si=yCSW9BnYEYkn9gE7",
     "showcase": "https://youtu.be/KaA6csT7Zo8?si=yCSW9BnYEYkn9gE7",
